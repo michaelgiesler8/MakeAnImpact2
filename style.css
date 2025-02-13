@@ -1,0 +1,9 @@
+:root {
+  --impact-blue: #2c3e50;
+  --impact-orange: #e67e22;
+}
+
+.navbar {
+  background-color: var(--impact-blue) !important;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
