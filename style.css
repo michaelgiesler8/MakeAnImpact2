@@ -1,7 +1,0 @@
-:root {
-  --impact-blue: #2c3e50
-}
-
-.nav-link:hover {
-  color: var(--impact-orange) !important;
-}
